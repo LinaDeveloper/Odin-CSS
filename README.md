@@ -22,7 +22,9 @@ Beginner-Friendly Code: Structured with straightforward class names and basic HT
 Zero Dependencies: Runs out of the box in any browser—no installation, build tools, or JavaScript required.
 
 <h1>📁 File Structure</h1>
+
 ├── index.html   # Main HTML layout and structural markup
+
 └── style.css    # Styling, colors, spacing, and Flexbox rules
   
 <h1>🧰 Technologies Used</h1>
