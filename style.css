@@ -4,7 +4,7 @@ body {
   font-family: sans-serif;
 }
 
-/* Common Buttons */
+/*Buttons */
 button {
   cursor: pointer;
   padding: 8px 24px;
@@ -24,7 +24,7 @@ button {
   border: 2px solid white;
 }
 
-/* 1. Header & Hero */
+/* 1. Header */
 .header {
   background-color: #1f2937;
   color: white;
@@ -48,7 +48,7 @@ button {
   text-decoration: none;
   margin-left: 20px;
 }
-
+/* 2. Hero */
 .hero {
   display: flex;
   align-items: center;
@@ -79,7 +79,7 @@ button {
   color: white;
 }
 
-/* 2. Info Section */
+/* 3. Info Section */
 .info-section {
   text-align: center;
   padding: 50px 100px;
@@ -114,7 +114,7 @@ button {
   font-size: 14px;
 }
 
-/* 3. Quote Section */
+/* 4. Quote Section */
 .quote-section {
   background-color: #e5e7eb;
   padding: 80px 200px;
@@ -133,7 +133,7 @@ button {
   font-size: 20px;
 }
 
-/* 4. Call to Action */
+/* 5. Call to Action */
 .cta-section {
   padding: 80px 100px;
 }
